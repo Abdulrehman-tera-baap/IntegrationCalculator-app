@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="brand_navy">#0F172A</color>
+    <color name="brand_royal">#1E3A8A</color>
+    <color name="brand_cyan">#0284C7</color>
+    <color name="brand_accent">#06B6D4</color>
+    <color name="surface_bg">#F1F5F9</color>
+    <color name="card_white">#FFFFFF</color>
+    <color name="text_primary">#0F172A</color>
+    <color name="text_secondary">#475569</color>
+    <color name="chip_bg">#E0F2FE</color>
+    <color name="chip_text">#0369A1</color>
+</resources>
