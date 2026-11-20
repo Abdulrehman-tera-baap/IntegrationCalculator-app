@@ -1,5 +1,4 @@
 name: Build Integration Calculator APK
-
 on:
   push:
     branches: [ "main" ]
